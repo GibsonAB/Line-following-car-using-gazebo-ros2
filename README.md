@@ -1,4 +1,4 @@
-# Line-following-car-using-gazebo-ros2
+# Hand-gesture-controlled-line-following-car-using-gazebo-ros2
 
 https://github.com/user-attachments/assets/f34f220c-631a-40ee-a6c9-0d321a69ee11
 
